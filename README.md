@@ -1,8 +1,5 @@
-#-----------------------------------------------------------------------------------------------------------
-#-----------------------------------------------------------------------------------------------------------
-# Source Code: Pade Approximation of Clausius-Clapeyron for Evapotranspiration Estimation
-#-----------------------------------------------------------------------------------------------------------
-#-----------------------------------------------------------------------------------------------------------
+# Pade Approximation of Clausius-Clapeyron for Evapotranspiration Estimation
+
 This repository contains the Python source code and example data accompanying the manuscript:
 
 > Raghav, P. & Kumar, M. (2026). Beyond Penman-Monteith: A More Accurate Fully Explicit Analytical Solution for Evapotranspiration Estimation.
