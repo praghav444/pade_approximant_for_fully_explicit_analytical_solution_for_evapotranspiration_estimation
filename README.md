@@ -5,7 +5,6 @@ This repository contains the Python source code and example data accompanying th
 > Raghav, P. & Kumar, M. (2026). Beyond Penman-Monteith: A More Accurate Fully Explicit Analytical Solution for Evapotranspiration Estimation.
 
 > Contact: Pushpendra Raghav; https://praghav444.github.io/ | ppushpendra@ua.edu | praghav444@gmail.com | University of Alabama 
-#-----------------------------------------------------------------------------------------------------------
 
 ## Overview
 
