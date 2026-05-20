@@ -1,10 +1,14 @@
-# Pade Approximation of Clausius-Clapeyron for Evapotranspiration Estimation
-
+#-----------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------
+# Source Code: Pade Approximation of Clausius-Clapeyron for Evapotranspiration Estimation
+#-----------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------
 This repository contains the Python source code and example data accompanying the manuscript:
 
 > Raghav, P. & Kumar, M. (2026). Beyond Penman-Monteith: A More Accurate Fully Explicit Analytical Solution for Evapotranspiration Estimation.
 
 > Contact: Pushpendra Raghav; https://praghav444.github.io/ | ppushpendra@ua.edu | praghav444@gmail.com | University of Alabama 
+#-----------------------------------------------------------------------------------------------------------
 
 ## Overview
 
@@ -12,8 +16,8 @@ This code implements and evaluates four analytical solutions for the evapotransp
 
 | Model | Approximation | Reference |
 |-------|--------------|-----------|
-| Penman-Monteith (PM) | Linearised (1st-order Taylor) | Penman (1948), Monteith (1965); https://doi.org/10.1098/rspa.1948.0037|
-| McColl (2020) | Vallis exponential + Lambert-W | McColl (2020); https://doi.org/10.1029/2020WR027106|
+| PM | Linearised (1st-order Taylor) | Penman (1948), Monteith (1965); https://doi.org/10.1098/rspa.1948.0037|
+| McColl | Vallis exponential + Lambert-W | McColl (2020); https://doi.org/10.1029/2020WR027106|
 | Solution-1 (Pade-1) | Pade [1,1] of Vallis exponential | This study |
 | Solution-2 (Pade-2) | Pade [1,1] of exact Clausius-Clapeyron | This study |
 

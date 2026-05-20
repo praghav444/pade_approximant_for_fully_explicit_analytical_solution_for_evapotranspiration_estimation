@@ -1,0 +1,32 @@
+Site,Fluxnet_ID,Latitude,Longitude,Elevation,Canopy_Height_m,Tower_Height_m,data_start,data_end,Vegetation,PFT
+Longreach,AU-Lon,-23.52326576,144.3104157,157,0.5,4.25,10/9/2018 12:00,7/1/2024 0:00,Mitchell Grass,GRA
+Ridgefield,AU-Rgf,-32.506102,116.966827,330,1,10,3/29/2015 5:00,2/2/2025 0:00,Wheat,CRO
+RiggsCreek,AU-Rig,-36.656,145.576,152,0.4,5,1/1/2011 0:30,7/12/2017 17:30,Pasture,GRA
+RobsonCreek,AU-Rob,-17.11746943,145.6301375,710,28,40,8/1/2013 17:30,2/2/2025 0:00,"Regional Ecosystem (RE) 7.3.36a, complex mesophyll vine forest",EBF
+Samford,AU-Sam,-27.38806,152.87778,89,0.5,2,6/2/2010 12:00,12/31/2017 14:30,pasture,GRA
+SilverPlains,AU-SiP,-42.090556,147.0875,860,0.1,2.5,12/5/2019 10:00,12/31/2024 23:30,Species rich highland grassland/sedgeland,GRA
+SturtPlains,AU-Stp,-17.1507,133.3502,225,0.5,5,8/28/2008 11:00,2/2/2025 0:00,Mitchell Grasslands,GRA
+TiTreeEast,AU-TTE,-22.283,133.249,600,6.5,13.7,7/18/2012 0:00,1/17/2022 23:30,Canopy + three types of understorey (vegetation1-4),GRA
+YarramundiIrrigated,YA-Irr,-33.620812,150.763284,20,0.5,2,10/15/2019 9:30,12/29/2024 12:00,"pasture, irrigated",GRA
+Warra,AU-War,-43.09502,146.65452,108,55,80,3/5/2013 15:00,9/21/2021 12:00,Eucalyptus obliqua tall forest,EBF
+Boyagin,AU-Boy,-32.477093,116.938559,300,13,30,10/20/2017 13:00,2/2/2025 0:00,Dry schlerophyll woodland,EBF
+AliceSpringsMulga,AU-ASM,-22.283,133.249,600,6.5,13.7,9/3/2010 0:00,1/28/2025 10:00,Canopy + three types of understorey (vegetation1-4),SAV
+AlpinePeatland,AL-PET,-36.862222,147.320833,1765,0.3,2.2,4/12/2017 18:30,6/20/2022 23:30,,GRA
+DalyPasture,AU-DaP,-14.0633,131.3181,81,0.5,5,1/1/2008 0:00,9/8/2013 13:30,Tropical improved pasture,GRA
+GatumPasture,GA-PA,-37.390033,141.960897,254,0.05,2.9,2/9/2015 0:30,12/31/2021 23:30,Phalaris and Subterranean Clover,GRA
+Gingin,AU-Gin,-31.376351,115.71377,46.8,6.8,15,10/13/2011 14:00,12/31/2024 23:30,Banksia woodland,WSA
+GreatWesternWoodlands,AU-GWW,-30.1914,120.6541667,450,18,36,1/1/2013 15:30,12/31/2024 23:30,sparse eucalypt woodland,SAV
+HowardSprings,AU-How,-12.4952,131.15005,64,16,23,1/1/2002 6:00,2/2/2025 0:00,Woody savanna,WSA
+CowBay,AU-Cow,-16.238189,145.42715,86,26,35,1/1/2009 9:00,2/2/2025 0:00,lowland complex mesophyll vine forest,EBF
+CapeTribulation,AU-Ctr,-16.103219,145.446922,66,25,45,1/1/2010 0:00,11/2/2018 12:00,lowland complex mesophyll vine forest,EBF
+YarramundiControl,YA-CON,-33.613469,150.734864,20,0.5,2,10/22/2019 15:30,1/1/2025 0:00,"pasture, unirrigated",GRA
+DryRiver,AU-Dry,-15.2588,132.3706,175,0.15,15,10/25/2009 15:00,2/2/2025 0:00,Woodland savanna,SAV
+Calperum,AU-Cpr,-34.0027,140.5877,60,3,20,7/30/2010 11:00,2/2/2025 0:00,Mallee,SAV
+DalyUncleared,AU-DaS,-14.1592,131.3881,110,16.4,21,1/1/2008 0:00,2/2/2025 0:00,Woody Savanna,SAV
+Yanco,AU-Ync,-34.9878,146.2908,128,0.5,20,10/24/2012 14:00,1/28/2025 3:00,Pasture,GRA
+WombatStateForest,AU-Wom,-37.422506,144.094046,705,23,33,1/20/2010 14:00,5/29/2021 21:30,dry sclerophyll eucalypt forest,EBF
+Whroo,AU-Whr,-36.6732,145.0294,131,28,35,12/1/2011 13:30,12/31/2023 23:30,Dry schlerophyll woodland,EBF
+WallabyCreek,AU-WAL,-37.4259,145.1878,753,100,110,8/25/2005 12:30,12/31/2008 23:30,Mountain Ash,EBF
+Tumbarumba,AU-Tum,-35.6566,148.1516,1249,40,70,1/7/2002 16:00,12/3/2022 18:00,wet sclerophyll forest,EBF
+CumberlandPlain,AU-Cum,-33.615278,150.723611,27,24,30,1/1/2014 0:30,1/1/2025 0:00,Dry sclerophyll forest,EBF
+Litchfield,AU-Lit,-13.17904178,130.7945459,222,16,30,6/23/2015 13:00,1/17/2025 0:00,Woody savanna,WSA
